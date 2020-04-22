@@ -7,6 +7,7 @@ def count_strings(array)
    if num == num.to_s
     num
   end 
+  end 
 end
 
 
